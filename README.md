@@ -1,2 +1,2 @@
 # Google-KickStart
-An archive of the questions in Google KickStart Competitions
+An archive of the Google KickStart questions.
